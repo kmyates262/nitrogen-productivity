@@ -1,0 +1,72 @@
+PPF is given as 17 mole per m^2 per DAY
+G_p = growth period = 28 d_AP
+H_i =  harvest index = 0.9
+Edible biomass productivity
+	DBE = dry basis = 6.57 g_dw / (m^2 day)
+	FBE = fresh basis = 131.35 g_fw / (m^2 day)
+Inedible biomass productivity
+	DBI = dry basis = 0.73 g_dw / (m^2 day)
+	FBI = fresh basis = 7.30 g_fw / (m^2 day)
+C_c = w_C = BCF
+O2_prod = 7.78 g / (m^2 day)
+CO2_uptake = 10.70 g / (m^2 day)
+H2O_uptake = 2.10 avg kg / (m^2 day)
+Diet using all ELS crops
+	growing_area_CM = 0.057 m^2/CM
+	
+C_1		0
+C_2		0
+C_3		0
+C_4		0
+C_5		0
+C_6		0
+C_7		4.48E-02
+C_8		5.16E-05
+C_9		-2.08E-08
+C_10		0
+C_11		0
+C_12		-1.17E-05
+C_13		0
+C_14		0
+C_15		0
+C_16		0
+C_17		0
+C_18		-1.97E-11
+C_19		8.93E-15
+C_20		0
+C_21		0
+C_22		0
+C_23		0
+C_24		0
+C_25		0
+
+TA_1		0
+TA_2		1.03E+04
+TA_3		-3.7018
+TA_4		0
+TA_5		3.66E-07
+TA_6		0
+TA_7		1.7571
+TA_8		0
+TA_9		2.31E-06
+TA_10		0
+TA_11		1.876
+TA_12		0
+TA_13		0
+TA_14		0
+TA_15		0
+TA_16		0
+TA_17		0
+TA_18		0
+TA_19		0
+TA_20		0
+TA_21		0
+TA_22		0
+TA_23		0
+TA_24		0
+TA_25		0
+
+PPF_min		200
+PPF_max		500
+CO2_min		330
+CO2_max		1300
